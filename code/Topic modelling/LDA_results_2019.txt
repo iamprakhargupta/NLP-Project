@@ -1,0 +1,602 @@
+____________________________________________________________________________________
+CLUSTER 9
+____________________________________________________________________________________
+--------Countries-----
+Afghanistan	Commonwealth of Australia	Commonwealth of the Bahamas	Belize	Union of the Comoros	Federated States of Micronesia	Republic of Croatia	Republic of Kiribati	Republic of Maldives	Marshall Islands	Republic of Nauru	Republic of Palau	Independent State of Papua New Guinea	Solomon Islands	Republic of Seychelles	Kingdom of Tonga	Tuvalu	Republic of Vanuatu	Independent State of Samoa	
+-----------------------
+Topic: 0
+0.005 "Afghan" 
+ 0.004 "SIDS" 
+ 0.004 "Afghans" 
+ 0.003 "vote" 
+ 0.003 "emissions" 
+ 0.003 "fish" 
+ 0.003 "target" 
+ 0.002 "invest" 
+ 0.002 "essential" 
+ 0.002 "technologies"
+Topic: 1
+0.006 "Islands" 
+ 0.004 "Vanuatu" 
+ 0.003 "importance" 
+ 0.002 "Marshall" 
+ 0.002 "SDGs" 
+ 0.002 "policy" 
+ 0.002 "target" 
+ 0.002 "express" 
+ 0.002 "sector" 
+ 0.002 "service"
+Topic: 2
+0.006 "Islands" 
+ 0.005 "Solomon" 
+ 0.003 "SIDS" 
+ 0.002 "fish" 
+ 0.002 "opportunities" 
+ 0.002 "project" 
+ 0.002 "blue" 
+ 0.002 "plastic" 
+ 0.002 "planet" 
+ 0.002 "represent"
+
+Coherence Score:  0.3448962179131853
+
+Perplexity Score:  -8.220529901604925
+____________________________________________________________________________________
+CLUSTER 0
+____________________________________________________________________________________
+--------Countries-----
+Republic of Angola	Republic of Armenia	Burundi	Kingdom of Belgium	People’s Republic of Bangladesh	Botswana	Republic of the Gambia	Republic of Kenya	Kingdom of Lesotho	Mexico	Republic of Malawi	Republic of Namibia	Federal Republic of Nigeria	Republic of Rwanda	Republic of Sierra Leone	Federal Republic of Somalia	Uganda	South Africa	Republic of Zambia	Republic of Zimbabwe	
+-----------------------
+Topic: 0
+0.004 "region" 
+ 0.003 "Nagorno" 
+ 0.003 "Karabakh" 
+ 0.003 "revolution" 
+ 0.003 "refugees" 
+ 0.003 "environment" 
+ 0.003 "health" 
+ 0.002 "service" 
+ 0.002 "school" 
+ 0.002 "recent"
+Topic: 1
+0.006 "South" 
+ 0.004 "2020" 
+ 0.003 "elections" 
+ 0.003 "Republic" 
+ 0.003 "continent" 
+ 0.003 "solidarity" 
+ 0.003 "enjoy" 
+ 0.002 "intolerance" 
+ 0.002 "2015" 
+ 0.002 "Burundian"
+Topic: 2
+0.004 "health" 
+ 0.003 "school" 
+ 0.002 "cost" 
+ 0.002 "prosperity" 
+ 0.002 "million" 
+ 0.002 "critical" 
+ 0.002 "Rohingya" 
+ 0.002 "improve" 
+ 0.002 "empower" 
+ 0.002 "strong"
+
+Coherence Score:  0.3449276927548772
+
+Perplexity Score:  -8.186497039025673
+____________________________________________________________________________________
+CLUSTER 1
+____________________________________________________________________________________
+--------Countries-----
+Republic of Albania	Antigua and Barbuda	Azerbaijan	Barbados	Republic of Cabo Verde	Guinea-Bissau	Guyana	Jamaica	Lao People’s Democratic Republic	Saint Lucia	Mozambique	Republic of Mauritius	Romania	Republic of Suriname	Timor-Leste	Republic of Trinidad and Tobago	Saint Vincent and the Grenadines	
+-----------------------
+Topic: 0
+0.004 "Cabo" 
+ 0.004 "Mauritius" 
+ 0.003 "Verde" 
+ 0.003 "Caribbean" 
+ 0.003 "Saint" 
+ 0.003 "European" 
+ 0.002 "Grenadines" 
+ 0.002 "Vincent" 
+ 0.002 "African" 
+ 0.002 "reach"
+Topic: 1
+0.005 "Tobago" 
+ 0.004 "Caribbean" 
+ 0.003 "Mozambique" 
+ 0.003 "Timor-Leste" 
+ 0.003 "Guinea-Bissau" 
+ 0.002 "Saint" 
+ 0.002 "neighbour" 
+ 0.002 "CARICOM" 
+ 0.002 "Lucia" 
+ 0.002 "natural"
+Topic: 2
+0.005 "Caribbean" 
+ 0.003 "choose" 
+ 0.003 "today" 
+ 0.002 "know" 
+ 0.002 "recent" 
+ 0.002 "talk" 
+ 0.002 "confront" 
+ 0.002 "dignity" 
+ 0.002 "critical" 
+ 0.002 "leaders"
+
+Coherence Score:  0.35441767221042203
+
+Perplexity Score:  -8.227648165208908
+____________________________________________________________________________________
+CLUSTER 2
+____________________________________________________________________________________
+--------Countries-----
+Principality of Andorra	Plurinational State of Bolivia	Democratic Republic of the Congo	Republic of Costa Rica	Dominican Republic	Kingdom of Spain	Madagascar	Nicaragua	Republic of Peru	Republic of Paraguay	San Marino	United Republic of Tanzania	Uruguay	
+-----------------------
+Topic: 0
+0.007 "Democratic" 
+ 0.005 "Africa" 
+ 0.005 "Andorra" 
+ 0.004 "African" 
+ 0.004 "2015" 
+ 0.004 "institutions" 
+ 0.003 "billion" 
+ 0.003 "electricity" 
+ 0.003 "representative" 
+ 0.002 "eradicate"
+Topic: 1
+0.005 "Paraguay" 
+ 0.003 "technological" 
+ 0.003 "Latin" 
+ 0.003 "revolution" 
+ 0.003 "Dominican" 
+ 0.002 "clear" 
+ 0.002 "leave" 
+ 0.002 "ahead" 
+ 0.002 "digital" 
+ 0.002 "European"
+Topic: 2
+0.006 "Marino" 
+ 0.003 "participation" 
+ 0.003 "initiatives" 
+ 0.002 "corruption" 
+ 0.002 "arm" 
+ 0.002 "problems" 
+ 0.002 "coordinate" 
+ 0.002 "capacity" 
+ 0.002 "form" 
+ 0.002 "concrete"
+
+Coherence Score:  0.3074828713038014
+
+Perplexity Score:  -8.083384288503002
+____________________________________________________________________________________
+CLUSTER 3
+____________________________________________________________________________________
+--------Countries-----
+United Arab Emirates	Algeria	Kingdom of Morocco	Islamic Republic of Mauritania	Oman	Republic of the Sudan	Republic of Tunisia	
+-----------------------
+Topic: 0
+0.007 "Sahel" 
+ 0.006 "Africa" 
+ 0.005 "strategy" 
+ 0.005 "energy" 
+ 0.004 "public" 
+ 0.004 "access" 
+ 0.004 "vision" 
+ 0.004 "Majesty" 
+ 0.004 "Mohammed" 
+ 0.004 "King"
+Topic: 1
+0.012 "Sudanese" 
+ 0.011 "revolution" 
+ 0.007 "women" 
+ 0.006 "Emirates" 
+ 0.006 "crises" 
+ 0.005 "solutions" 
+ 0.004 "transitional" 
+ 0.003 "service" 
+ 0.003 "nations" 
+ 0.003 "glorious"
+Topic: 2
+0.005 "brother" 
+ 0.004 "crisis" 
+ 0.004 "question" 
+ 0.004 "path" 
+ 0.003 "democracy" 
+ 0.003 "crises" 
+ 0.003 "fraternal" 
+ 0.003 "Africa" 
+ 0.003 "Mediterranean" 
+ 0.003 "fulfil"
+
+Coherence Score:  0.37662222753864594
+
+Perplexity Score:  -7.441709285628325
+____________________________________________________________________________________
+CLUSTER 4
+____________________________________________________________________________________
+--------Countries-----
+Argentine Republic	Swiss Confederation	Republic of Ecuador	Ireland	Republic of Iceland	Italian Republic	Sri Lanka	Monaco	Republic of Mali	Republic of Malta	Montenegro	Republic of Poland	Republic of Slovenia	Holy See	
+-----------------------
+Topic: 0
+0.004 "European" 
+ 0.003 "protection" 
+ 0.003 "societies" 
+ 0.003 "peaceful" 
+ 0.002 "Conference" 
+ 0.002 "natural" 
+ 0.002 "legal" 
+ 0.002 "policy" 
+ 0.002 "reduce" 
+ 0.002 "victims"
+Topic: 1
+0.003 "transition" 
+ 0.003 "like" 
+ 0.003 "enable" 
+ 0.003 "Francis" 
+ 0.003 "Pope" 
+ 0.003 "group" 
+ 0.003 "welcome" 
+ 0.003 "Malian" 
+ 0.003 "Global" 
+ 0.002 "regions"
+Topic: 2
+0.008 "Lanka" 
+ 0.003 "small" 
+ 0.003 "policy" 
+ 0.003 "terrorism" 
+ 0.002 "technologies" 
+ 0.002 "technology" 
+ 0.002 "migration" 
+ 0.002 "think" 
+ 0.002 "island" 
+ 0.002 "word"
+
+Coherence Score:  0.2617961364516556
+
+Perplexity Score:  -8.060906170229384
+____________________________________________________________________________________
+CLUSTER 5
+____________________________________________________________________________________
+--------Countries-----
+Republic of Austria	Republic of Bulgaria	Canada	People’s Republic of China	Denmark	Republic of Lithuania	Mongolia	Kingdom of the Netherlands	Norway	Sweden	
+-----------------------
+Topic: 0
+0.004 "multilateralism" 
+ 0.003 "listen" 
+ 0.003 "gender" 
+ 0.003 "hear" 
+ 0.003 "Member" 
+ 0.003 "pursue" 
+ 0.002 "partnerships" 
+ 0.002 "equality" 
+ 0.002 "learn" 
+ 0.002 "focus"
+Topic: 1
+0.004 "democracy" 
+ 0.003 "young" 
+ 0.003 "Asia" 
+ 0.003 "propose" 
+ 0.003 "North-East" 
+ 0.002 "reason" 
+ 0.002 "potential" 
+ 0.002 "participation" 
+ 0.002 "market" 
+ 0.002 "differences"
+Topic: 2
+0.004 "justice" 
+ 0.003 "military" 
+ 0.003 "freedom" 
+ 0.003 "crimes" 
+ 0.003 "reach" 
+ 0.003 "best" 
+ 0.003 "champion" 
+ 0.003 "Member" 
+ 0.002 "young" 
+ 0.002 "Europe"
+
+Coherence Score:  0.35483550475642156
+
+Perplexity Score:  -7.942475710010616
+____________________________________________________________________________________
+Others
+____________________________________________________________________________________
+--------Countries-----
+Benin	Burkina Faso	Republic of Belarus	Bhutan	Republic of Côte d’Ivoire	Republic of the Congo	Czech Republic	Republic of Djibouti	Commonwealth of Dominica	Federal Democratic Republic of Ethiopia	Republic of Fiji	Republic of Ghana	Republic of Guinea	Republic of Equatorial Guinea	Grenada	Haiti	Hungary	Republic of Indonesia	Republic of Iraq	Hashemite Kingdom of Jordan	Saint Kitts and Nevis	Republic of Korea	Republic of Liberia	Principality of Liechtenstein	Grand Duchy of Luxembourg	Republic of Latvia	Federal Democratic Republic of Nepal	Portuguese Republic	Russian Federation	Republic of Senegal	Republic of Serbia	Republic of South Sudan	Democratic Republic of Sao Tome and Principe	Kingdom of Eswatini	Togo	Viet Nam	
+-----------------------
+Topic: 0
+0.003 "Sahel" 
+ 0.003 "fight" 
+ 0.002 "continent" 
+ 0.002 "welcome" 
+ 0.002 "finance" 
+ 0.002 "Faso" 
+ 0.002 "Burkina" 
+ 0.002 "launch" 
+ 0.002 "terrorism" 
+ 0.002 "inclusion"
+Topic: 1
+0.005 "terrorism" 
+ 0.003 "rule" 
+ 0.002 "current" 
+ 0.002 "combat" 
+ 0.002 "common" 
+ 0.002 "dangerous" 
+ 0.002 "Treaty" 
+ 0.002 "principles" 
+ 0.002 "solution" 
+ 0.002 "Palestinian"
+Topic: 2
+0.005 "South" 
+ 0.003 "nations" 
+ 0.002 "European" 
+ 0.002 "Korean" 
+ 0.002 "zone" 
+ 0.002 "party" 
+ 0.002 "rule" 
+ 0.002 "million" 
+ 0.002 "Peace" 
+ 0.002 "peninsula"
+
+Coherence Score:  0.2175132083183324
+
+Perplexity Score:  -8.295177482878993
+____________________________________________________________________________________
+CLUSTER 10
+____________________________________________________________________________________
+--------Countries-----
+Bahrain	Republic of Cyprus	Arab Republic of Egypt	Hellenic Republic	Islamic Republic of Iran	State of Israel	State of Kuwait	Lebanese Republic	Libya	Myanmar	Malaysia	State of Palestine	State of Qatar	Kingdom of Saudi Arabia	Syrian Arab Republic	Republic of Turkey	Yemen	
+-----------------------
+Topic: 0
+0.005 "Cyprus" 
+ 0.005 "Turkish" 
+ 0.003 "European" 
+ 0.003 "climate" 
+ 0.003 "justice" 
+ 0.003 "refugees" 
+ 0.003 "humanitarian" 
+ 0.003 "Union" 
+ 0.002 "safe" 
+ 0.002 "host"
+Topic: 1
+0.004 "Israeli" 
+ 0.004 "militias" 
+ 0.004 "impose" 
+ 0.003 "coalition" 
+ 0.003 "African" 
+ 0.003 "Saudi" 
+ 0.003 "legitimacy" 
+ 0.003 "Idlib" 
+ 0.002 "Houthi" 
+ 0.002 "terrorists"
+Topic: 2
+0.005 "regime" 
+ 0.003 "Iranian" 
+ 0.003 "kill" 
+ 0.003 "climate" 
+ 0.003 "Libyan" 
+ 0.003 "war" 
+ 0.002 "civilian" 
+ 0.002 "aggression" 
+ 0.002 "Jewish" 
+ 0.002 "sanction"
+
+Coherence Score:  0.3171694748066901
+
+Perplexity Score:  -8.061176103985108
+____________________________________________________________________________________
+CLUSTER 6
+____________________________________________________________________________________
+--------Countries-----
+Bosnia and Herzegovina	Republic of Kazakhstan	Kyrgyzstan	Republic of Moldova	Republic of North Macedonia	Republic of Tajikistan	Turkmenistan	
+-----------------------
+Topic: 0
+0.011 "European" 
+ 0.007 "North" 
+ 0.007 "Macedonia" 
+ 0.005 "combat" 
+ 0.004 "activities" 
+ 0.004 "migration" 
+ 0.004 "traffic" 
+ 0.004 "weapons" 
+ 0.003 "NATO" 
+ 0.003 "form"
+Topic: 1
+0.014 "Kyrgyz" 
+ 0.006 "neutrality" 
+ 0.006 "Transnistrian" 
+ 0.005 "solve" 
+ 0.005 "problem" 
+ 0.004 "force" 
+ 0.004 "main" 
+ 0.003 "status" 
+ 0.003 "place" 
+ 0.003 "Asian"
+Topic: 2
+0.005 "drug" 
+ 0.005 "Dushanbe" 
+ 0.004 "traffic" 
+ 0.004 "conference" 
+ 0.004 "nuclear" 
+ 0.004 "grow" 
+ 0.004 "Conference" 
+ 0.004 "illicit" 
+ 0.004 "economy" 
+ 0.004 "timely"
+
+Coherence Score:  0.3686401739727517
+
+Perplexity Score:  -7.572812648816696
+____________________________________________________________________________________
+CLUSTER 7
+____________________________________________________________________________________
+--------Countries-----
+Federative Republic of Brazil	Republic of Colombia	Cuba	European Union	United Kingdom of Great Britain and Northern Ireland	Republic of Guatemala	Republic of India	Japan	New Zealand	Islamic Republic of Pakistan	Republic of Panama	Democratic People's Republic of Korea	Republic of El Salvador	Ukraine	United States of America	Bolivarian Republic of Venezuela	
+-----------------------
+Topic: 0
+0.005 "indigenous" 
+ 0.003 "Republic" 
+ 0.003 "Cuban" 
+ 0.003 "Brazilian" 
+ 0.002 "sovereignty" 
+ 0.002 "military" 
+ 0.002 "Democratic" 
+ 0.002 "cent" 
+ 0.002 "People" 
+ 0.002 "future"
+Topic: 1
+0.003 "measure" 
+ 0.003 "entire" 
+ 0.002 "Venezuelan" 
+ 0.002 "women" 
+ 0.002 "message" 
+ 0.002 "meet" 
+ 0.002 "girls" 
+ 0.002 "bomb" 
+ 0.002 "billion" 
+ 0.002 "terrorism"
+Topic: 2
+0.004 "Muslims" 
+ 0.003 "Kashmir" 
+ 0.003 "Islam" 
+ 0.003 "Muslim" 
+ 0.002 "Zealand" 
+ 0.002 "happen" 
+ 0.002 "CICIG" 
+ 0.002 "base" 
+ 0.002 "justice" 
+ 0.002 "commit"
+
+Coherence Score:  0.35474630702192034
+
+Perplexity Score:  -8.289141291057076
+____________________________________________________________________________________
+CLUSTER 12
+____________________________________________________________________________________
+--------Countries-----
+Brunei Darussalam	Federal Republic of Germany	Eritrea	Cambodia	Philippines	Republic of Singapore	Thailand	
+-----------------------
+Topic: 0
+0.007 "talk" 
+ 0.005 "sustainability" 
+ 0.005 "Council" 
+ 0.005 "process" 
+ 0.004 "women" 
+ 0.003 "disarmament" 
+ 0.003 "agenda" 
+ 0.003 "SDGs" 
+ 0.003 "Security" 
+ 0.003 "term"
+Topic: 1
+0.005 "develop" 
+ 0.004 "Africa" 
+ 0.003 "problems" 
+ 0.003 "current" 
+ 0.003 "market" 
+ 0.003 "region" 
+ 0.003 "service" 
+ 0.003 "environmental" 
+ 0.003 "fact" 
+ 0.002 "Agreement"
+Topic: 2
+0.004 "fight" 
+ 0.004 "know" 
+ 0.004 "drug" 
+ 0.004 "crime" 
+ 0.004 "State" 
+ 0.004 "interference" 
+ 0.003 "sovereignty" 
+ 0.003 "protect" 
+ 0.003 "stop" 
+ 0.003 "sovereign"
+
+Coherence Score:  0.3572248478354692
+
+Perplexity Score:  -7.767795850399842
+____________________________________________________________________________________
+CLUSTER 11
+____________________________________________________________________________________
+--------Countries-----
+Central African Republic	Republic of Cameroon	Gabonese Republic	Republic of the Niger	Republic of Chad	
+-----------------------
+Topic: 0
+0.008 "Gabon" 
+ 0.004 "threats" 
+ 0.004 "weapons" 
+ 0.004 "sign" 
+ 0.004 "recovery" 
+ 0.004 "greater" 
+ 0.003 "entire" 
+ 0.003 "approach" 
+ 0.003 "scale" 
+ 0.003 "extremism"
+Topic: 1
+0.003 "create" 
+ 0.003 "Summit" 
+ 0.003 "SDGs" 
+ 0.003 "Libyan" 
+ 0.003 "establish" 
+ 0.003 "north-west" 
+ 0.003 "south-west" 
+ 0.003 "World" 
+ 0.003 "children" 
+ 0.003 "urgent"
+Topic: 2
+0.002 "Gabon" 
+ 0.001 "greater" 
+ 0.001 "finance" 
+ 0.001 "expectations" 
+ 0.001 "threats" 
+ 0.001 "Ondimba" 
+ 0.001 "Summit" 
+ 0.001 "scale" 
+ 0.001 "longer" 
+ 0.001 "Bongo"
+
+Coherence Score:  0.38319899103750793
+
+Perplexity Score:  -7.592075454734018
+____________________________________________________________________________________
+CLUSTER 8
+____________________________________________________________________________________
+--------Countries-----
+Republic of Chile	Republic of Estonia	Republic of Finland	French Republic	Georgia	Republic of Honduras	Slovak Republic	
+-----------------------
+Topic: 0
+0.005 "course" 
+ 0.004 "life" 
+ 0.004 "water" 
+ 0.004 "occupation" 
+ 0.003 "education" 
+ 0.003 "trade" 
+ 0.003 "generation" 
+ 0.003 "integration" 
+ 0.003 "overcome" 
+ 0.003 "path"
+Topic: 1
+0.006 "courage" 
+ 0.006 "agenda" 
+ 0.004 "region" 
+ 0.004 "subject" 
+ 0.004 "institutions" 
+ 0.004 "fund" 
+ 0.003 "coffee" 
+ 0.003 "question" 
+ 0.003 "organize" 
+ 0.003 "promote"
+Topic: 2
+0.008 "care" 
+ 0.005 "nations" 
+ 0.005 "globally" 
+ 0.005 "ready" 
+ 0.004 "benefit" 
+ 0.004 "Security" 
+ 0.003 "tool" 
+ 0.003 "compassion" 
+ 0.003 "obstacle" 
+ 0.003 "digital"
+
+Coherence Score:  0.35085286318121206
+
+Perplexity Score:  -7.746807321156391

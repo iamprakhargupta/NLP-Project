@@ -1,0 +1,559 @@
+____________________________________________________________________________________
+CLUSTER 11
+____________________________________________________________________________________
+--------Countries-----
+Afghanistan	Israel	Netherlands	Philippines	USA	
+-----------------------
+Topic: 0
+0.043 "terror" 
+ 0.037 "economy" 
+ 0.017 "society" 
+ 0.016 "promise" 
+ 0.011 "look" 
+ 0.011 "existence" 
+ 0.010 "wealth" 
+ 0.010 "Laden" 
+ 0.009 "progress" 
+ 0.009 "evil"
+Topic: 1
+0.025 "fail" 
+ 0.015 "poor" 
+ 0.015 "Organization" 
+ 0.013 "strike" 
+ 0.011 "develop" 
+ 0.011 "common" 
+ 0.009 "look" 
+ 0.008 "number" 
+ 0.008 "community" 
+ 0.007 "culture"
+Topic: 2
+0.026 "terror" 
+ 0.025 "terrorists" 
+ 0.024 "Taliban" 
+ 0.021 "Islamic" 
+ 0.015 "reconstruction" 
+ 0.014 "community" 
+ 0.009 "years" 
+ 0.009 "leave" 
+ 0.008 "act" 
+ 0.007 "dignity"
+
+Coherence Score:  0.366822792111088
+
+Perplexity Score:  -5.971585401546642
+____________________________________________________________________________________
+CLUSTER 2
+____________________________________________________________________________________
+--------Countries-----
+Angola	UAE	Benin	Bahrain	Egypt	Spain	Morocco	Mauritania	Oman	Sudan	San Marino	Tunisia	Yemen	
+-----------------------
+Topic: 0
+0.007 "settlement" 
+ 0.007 "occupation" 
+ 0.006 "weapons" 
+ 0.005 "resolve" 
+ 0.005 "members" 
+ 0.004 "continent" 
+ 0.004 "nations" 
+ 0.004 "dispute" 
+ 0.004 "spirit" 
+ 0.004 "understand"
+Topic: 1
+0.007 "meet" 
+ 0.004 "desire" 
+ 0.004 "partnership" 
+ 0.004 "remain" 
+ 0.004 "create" 
+ 0.004 "stress" 
+ 0.004 "Mediterranean" 
+ 0.003 "delegation" 
+ 0.003 "conference" 
+ 0.003 "undertake"
+Topic: 2
+0.006 "solidarity" 
+ 0.005 "attack" 
+ 0.005 "instrument" 
+ 0.004 "attention" 
+ 0.004 "restore" 
+ 0.004 "commitment" 
+ 0.004 "Member" 
+ 0.004 "Summit" 
+ 0.003 "solutions" 
+ 0.003 "better"
+
+Coherence Score:  0.3130774113973206
+
+Perplexity Score:  -7.200290606070516
+____________________________________________________________________________________
+CLUSTER 0
+____________________________________________________________________________________
+--------Countries-----
+Albania	Azerbaijan	Bulgaria	Bosnia and Herzegovina	Belarus	Barbados	Cote d'Ivoire	Estonia	Finland	Georgia	Japan	Kazakhstan	Kyrgyzstan	Latvia	Moldova	Macedonia	Myanmar	Mongolia	Nicaragua	Norway	Poland	Portugal	Russia	El Salvador	Slovakia	Tajikistan	Turkmenistan	Ukraine	Uzbekistan	Yugoslavia	
+-----------------------
+Topic: 0
+0.005 "European" 
+ 0.004 "require" 
+ 0.004 "Union" 
+ 0.003 "welcome" 
+ 0.003 "Declaration" 
+ 0.003 "Afghan" 
+ 0.003 "policy" 
+ 0.003 "Conference" 
+ 0.003 "active" 
+ 0.003 "particularly"
+Topic: 1
+0.004 "resources" 
+ 0.004 "Development" 
+ 0.003 "remain" 
+ 0.003 "Convention" 
+ 0.003 "weapons" 
+ 0.003 "basis" 
+ 0.003 "peacekeeping" 
+ 0.003 "task" 
+ 0.003 "problem" 
+ 0.003 "decisions"
+Topic: 2
+0.006 "Herzegovina" 
+ 0.004 "step" 
+ 0.004 "direct" 
+ 0.003 "share" 
+ 0.003 "build" 
+ 0.003 "goals" 
+ 0.003 "terrorists" 
+ 0.003 "struggle" 
+ 0.003 "improve" 
+ 0.003 "better"
+
+Coherence Score:  0.19980371597799843
+
+Perplexity Score:  -7.508523215145845
+____________________________________________________________________________________
+CLUSTER 1
+____________________________________________________________________________________
+--------Countries-----
+Andorra	Armenia	Bolivia	Brunei	Chile	Cameroon	Colombia	Cuba	Dominican Republic	Greece	Croatia	Slovenia	Uruguay	Venezuela	
+-----------------------
+Topic: 0
+0.008 "death" 
+ 0.006 "debate" 
+ 0.006 "truth" 
+ 0.005 "religious" 
+ 0.005 "word" 
+ 0.005 "American" 
+ 0.004 "know" 
+ 0.004 "great" 
+ 0.004 "dialogue" 
+ 0.004 "think"
+Topic: 1
+0.009 "responsibility" 
+ 0.008 "market" 
+ 0.006 "drug" 
+ 0.006 "freedom" 
+ 0.006 "free" 
+ 0.006 "coalition" 
+ 0.005 "rule" 
+ 0.005 "trade" 
+ 0.005 "society" 
+ 0.005 "demand"
+Topic: 2
+0.005 "region" 
+ 0.005 "address" 
+ 0.004 "dialogue" 
+ 0.004 "word" 
+ 0.004 "remain" 
+ 0.004 "turn" 
+ 0.004 "terrorists" 
+ 0.004 "honour" 
+ 0.004 "represent" 
+ 0.003 "cooperation"
+
+Coherence Score:  0.2524068278403297
+
+Perplexity Score:  -7.154605609549369
+____________________________________________________________________________________
+CLUSTER 8
+____________________________________________________________________________________
+--------Countries-----
+Argentina	Costa Rica	Guatemala	Hungary	Monaco	Mexico	Panama	Paraguay	
+-----------------------
+Topic: 0
+0.006 "arm" 
+ 0.006 "resources" 
+ 0.005 "light" 
+ 0.005 "Central" 
+ 0.005 "dispute" 
+ 0.005 "trade" 
+ 0.005 "region" 
+ 0.005 "resolutions" 
+ 0.004 "protection" 
+ 0.004 "democracy"
+Topic: 1
+0.010 "conventions" 
+ 0.010 "importance" 
+ 0.007 "recently" 
+ 0.006 "participate" 
+ 0.006 "humanitarian" 
+ 0.006 "biological" 
+ 0.006 "capacity" 
+ 0.006 "underscore" 
+ 0.006 "nature" 
+ 0.006 "crimes"
+Topic: 2
+0.008 "threats" 
+ 0.007 "women" 
+ 0.007 "exclusion" 
+ 0.006 "humanitarian" 
+ 0.006 "reflect" 
+ 0.006 "commit" 
+ 0.006 "crime" 
+ 0.006 "equitable" 
+ 0.005 "benefit" 
+ 0.005 "reason"
+
+Coherence Score:  0.2666199971298186
+
+Perplexity Score:  -6.805587289110152
+____________________________________________________________________________________
+CLUSTER 3
+____________________________________________________________________________________
+--------Countries-----
+Antigua and Barbuda	Austria	Belgium	Bahamas	Ecuador	Fiji	Federated States of Micronesia	Ghana	Lithuania	Madagascar	Maldives	Marshall islands	Malta	Nauru	Papua New Guinea	Solomon islands	Tonga	Trinidad and Tobago	Tuvalu	Vanuatu	Samoa	
+-----------------------
+Topic: 0
+0.006 "Islands" 
+ 0.005 "Solomon" 
+ 0.003 "particular" 
+ 0.003 "partner" 
+ 0.003 "vulnerability" 
+ 0.003 "response" 
+ 0.003 "significant" 
+ 0.003 "go" 
+ 0.003 "critical" 
+ 0.003 "effort"
+Topic: 1
+0.006 "Union" 
+ 0.006 "European" 
+ 0.006 "Tuvalu" 
+ 0.003 "objectives" 
+ 0.003 "aim" 
+ 0.003 "sign" 
+ 0.003 "culture" 
+ 0.002 "policy" 
+ 0.002 "Europe" 
+ 0.002 "islands"
+Topic: 2
+0.009 "Papua" 
+ 0.009 "Islands" 
+ 0.007 "Union" 
+ 0.006 "Marshall" 
+ 0.006 "European" 
+ 0.004 "women" 
+ 0.003 "ratify" 
+ 0.003 "early" 
+ 0.003 "urge" 
+ 0.003 "increase"
+
+Coherence Score:  0.2803793916084933
+
+Perplexity Score:  -7.537448810599907
+____________________________________________________________________________________
+CLUSTER 5
+____________________________________________________________________________________
+--------Countries-----
+Australia	Botswana	Gambia	Guinea-Bissau	Italy	Kenya	Cambodia	Kuwait	Liberia	Sri Lanka	Lesotho	Malawi	Malaysia	Namibia	Niger	Nigeria	Singapore	Sierra Leone	Somalia	Tanzania	Zambia	Zimbabwe	
+-----------------------
+Topic: 0
+0.004 "million" 
+ 0.004 "economy" 
+ 0.003 "cent" 
+ 0.003 "diamonds" 
+ 0.003 "debt" 
+ 0.003 "impact" 
+ 0.003 "dialogue" 
+ 0.003 "program" 
+ 0.003 "terrorists" 
+ 0.003 "flow"
+Topic: 1
+0.005 "Palestinian" 
+ 0.004 "cent" 
+ 0.004 "resolutions" 
+ 0.004 "sanction" 
+ 0.004 "Timor" 
+ 0.003 "humanitarian" 
+ 0.003 "change" 
+ 0.003 "land" 
+ 0.003 "matter" 
+ 0.003 "million"
+Topic: 2
+0.004 "debt" 
+ 0.003 "initiatives" 
+ 0.003 "Democratic" 
+ 0.003 "resolve" 
+ 0.003 "step" 
+ 0.003 "Declaration" 
+ 0.002 "appeal" 
+ 0.002 "small" 
+ 0.002 "long" 
+ 0.002 "undertake"
+
+Coherence Score:  0.2556244531968295
+
+Perplexity Score:  -7.5933908508501045
+____________________________________________________________________________________
+CLUSTER 7
+____________________________________________________________________________________
+--------Countries-----
+Burundi	Congo	Cape Verde	Djibouti	Algeria	Gabon	Guinea	Haiti	Sao Tome and Principe	Chad	Togo	
+-----------------------
+Topic: 0
+0.005 "step" 
+ 0.004 "hand" 
+ 0.004 "genuine" 
+ 0.004 "grow" 
+ 0.004 "injustice" 
+ 0.004 "struggle" 
+ 0.003 "strategy" 
+ 0.003 "scene" 
+ 0.003 "economy" 
+ 0.003 "effectively"
+Topic: 1
+0.007 "elections" 
+ 0.005 "instrument" 
+ 0.005 "members" 
+ 0.005 "struggle" 
+ 0.004 "brotherly" 
+ 0.004 "democratic" 
+ 0.003 "devastate" 
+ 0.003 "cooperate" 
+ 0.003 "Agreement" 
+ 0.003 "plan"
+Topic: 2
+0.005 "greater" 
+ 0.005 "refugees" 
+ 0.004 "water" 
+ 0.004 "report" 
+ 0.004 "subregion" 
+ 0.004 "true" 
+ 0.004 "contribute" 
+ 0.004 "increase" 
+ 0.004 "recommendations" 
+ 0.003 "West"
+
+Coherence Score:  0.3104314456478556
+
+Perplexity Score:  -7.209782026915779
+____________________________________________________________________________________
+Outlier or Noise
+____________________________________________________________________________________
+--------Countries-----
+Burkina Faso	CAR	DRC	Cyprus	Czech Republic	Dominica	Denmark	Eritrea	Ethiopia	France	Equatorial Guinea	Grenada	Guyana	Honduras	India	Iran	Iraq	Saint Lucia	Liechtenstein	Luxembourg	Mali	Mozambique	Mauritius	Pakistan	Peru	Romania	Rwanda	Senegal	Seychelles	Uganda	Saint Vincent and the Grenadines	
+-----------------------
+Topic: 0
+0.004 "military" 
+ 0.003 "terrorists" 
+ 0.003 "struggle" 
+ 0.003 "economies" 
+ 0.003 "small" 
+ 0.003 "African" 
+ 0.003 "effective" 
+ 0.003 "prevent" 
+ 0.002 "assistance" 
+ 0.002 "agenda"
+Topic: 1
+0.004 "Saint" 
+ 0.003 "African" 
+ 0.003 "military" 
+ 0.003 "European" 
+ 0.003 "Democratic" 
+ 0.002 "increase" 
+ 0.002 "note" 
+ 0.002 "terrorists" 
+ 0.002 "small" 
+ 0.002 "able"
+Topic: 2
+0.013 "African" 
+ 0.004 "Central" 
+ 0.003 "extend" 
+ 0.003 "Mozambique" 
+ 0.003 "Palestinian" 
+ 0.003 "violence" 
+ 0.003 "effective" 
+ 0.003 "delegation" 
+ 0.003 "initiative" 
+ 0.003 "Democratic"
+
+Coherence Score:  0.28463119565052264
+
+Perplexity Score:  -7.705608003231209
+____________________________________________________________________________________
+CLUSTER 4
+____________________________________________________________________________________
+--------Countries-----
+Bangladesh	Belize	Brazil	Bhutan	United Kingdom	Ireland	Jamaica	Saint Kitts and Nevis	Palau	Suriname	South Africa	
+-----------------------
+Topic: 0
+0.006 "democracy" 
+ 0.005 "achieve" 
+ 0.005 "common" 
+ 0.005 "South" 
+ 0.004 "Summit" 
+ 0.004 "capacity" 
+ 0.004 "access" 
+ 0.004 "Caribbean" 
+ 0.004 "fact" 
+ 0.004 "term"
+Topic: 1
+0.005 "small" 
+ 0.005 "island" 
+ 0.005 "clear" 
+ 0.004 "Caribbean" 
+ 0.004 "Dialogue" 
+ 0.004 "compromise" 
+ 0.004 "equally" 
+ 0.004 "drug" 
+ 0.004 "HIV/AIDS" 
+ 0.004 "define"
+Topic: 2
+0.006 "Charter" 
+ 0.006 "Caribbean" 
+ 0.005 "suffer" 
+ 0.005 "recognize" 
+ 0.005 "millions" 
+ 0.005 "economy" 
+ 0.005 "HIV/AIDS" 
+ 0.004 "achieve" 
+ 0.004 "Declaration" 
+ 0.004 "critical"
+
+Coherence Score:  0.287873247994542
+
+Perplexity Score:  -7.1188342992440665
+____________________________________________________________________________________
+CLUSTER 9
+____________________________________________________________________________________
+--------Countries-----
+Canada	Germany	Iceland	Nepal	New Zealand	Swaziland	Turkey	
+-----------------------
+Topic: 0
+0.009 "Taliban" 
+ 0.007 "assistance" 
+ 0.007 "Countries" 
+ 0.006 "leave" 
+ 0.006 "cent" 
+ 0.005 "twenty-first" 
+ 0.005 "poor" 
+ 0.005 "defeat" 
+ 0.005 "reason" 
+ 0.005 "war"
+Topic: 1
+0.008 "urge" 
+ 0.007 "Development" 
+ 0.006 "Convention" 
+ 0.006 "focus" 
+ 0.006 "demonstrate" 
+ 0.006 "report" 
+ 0.005 "personnel" 
+ 0.005 "campaign" 
+ 0.005 "award" 
+ 0.005 "threaten"
+Topic: 2
+0.007 "draw" 
+ 0.007 "policy" 
+ 0.007 "accept" 
+ 0.006 "change" 
+ 0.006 "standards" 
+ 0.006 "double" 
+ 0.006 "approach" 
+ 0.006 "members" 
+ 0.006 "Taliban" 
+ 0.006 "succeed"
+
+Coherence Score:  0.3573063701682475
+
+Perplexity Score:  -6.69856364818613
+____________________________________________________________________________________
+CLUSTER 6
+____________________________________________________________________________________
+--------Countries-----
+China	Indonesia	South Korea	Laos	Democratic People’s Republic	Thailand	Vietnam	
+-----------------------
+Topic: 0
+0.022 "Korean" 
+ 0.018 "Democratic" 
+ 0.016 "peninsula" 
+ 0.016 "Joint" 
+ 0.014 "principles" 
+ 0.012 "equality" 
+ 0.012 "reunification" 
+ 0.010 "nation" 
+ 0.008 "fair" 
+ 0.008 "history"
+Topic: 1
+0.013 "equal" 
+ 0.013 "democratic" 
+ 0.009 "Democratic" 
+ 0.009 "violence" 
+ 0.008 "address" 
+ 0.008 "nuclear" 
+ 0.007 "democracy" 
+ 0.007 "financial" 
+ 0.007 "objectives" 
+ 0.007 "response"
+Topic: 2
+0.016 "Korean" 
+ 0.008 "peninsula" 
+ 0.008 "twenty-first" 
+ 0.008 "information" 
+ 0.007 "actively" 
+ 0.007 "World" 
+ 0.006 "Economic" 
+ 0.006 "Asia-Pacific" 
+ 0.006 "Democratic" 
+ 0.006 "framework"
+
+Coherence Score:  0.34739587699951474
+
+Perplexity Score:  -6.4843992656036304
+____________________________________________________________________________________
+CLUSTER 10
+____________________________________________________________________________________
+--------Countries-----
+Jordan	Lebanon	Libya	Palestine	Qatar	Saudi Arabia	Syria	
+-----------------------
+Topic: 0
+0.014 "Holy" 
+ 0.010 "sign" 
+ 0.009 "partner" 
+ 0.007 "cities" 
+ 0.007 "children" 
+ 0.006 "condition" 
+ 0.006 "terror" 
+ 0.006 "exert" 
+ 0.006 "villages" 
+ 0.006 "forward"
+Topic: 1
+0.009 "condition" 
+ 0.009 "frustration" 
+ 0.008 "terrorists" 
+ 0.007 "source" 
+ 0.006 "pluralism" 
+ 0.006 "agree" 
+ 0.006 "ensure" 
+ 0.006 "withdrawal" 
+ 0.006 "unity" 
+ 0.006 "city"
+Topic: 2
+0.017 "Lebanese" 
+ 0.007 "organizations" 
+ 0.006 "Convention" 
+ 0.006 "withdrawal" 
+ 0.006 "enhance" 
+ 0.006 "develop" 
+ 0.006 "report" 
+ 0.006 "African" 
+ 0.005 "terrorists" 
+ 0.005 "state"
+
+Coherence Score:  0.370269915960366
+
+Perplexity Score:  -6.621033249624926
